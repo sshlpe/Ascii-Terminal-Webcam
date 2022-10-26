@@ -10,7 +10,11 @@ def ascii_img(img, scale, reverse=False):
     # img: PILLOW Image Object
     # scale: (height, width)
 
-    gscale = "  .:-=+*#%@" 
+    gscale = "   .:-=+*#%@"
+    #gscale = '    .:░▒▓█'
+    #gscale = '     .:-i|=+%O#@'
+    #gscale = "Ñ@#W$9876543210?!abc;:+=-,._          "[::-1]
+
     if reverse: gscale = gscale[::-1]
 
     h,w = scale
