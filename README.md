@@ -11,9 +11,13 @@ pip3 install -r requirements.txt
 ```
 
 ## Use
-To use just run on terminal
+To use just run on terminal for normal use
 ```
 python3 webcam.py
+```
+or if you want inverted brightness. You can also press 'r' on any time to invert the brightness.
+```
+python3 webcam.py -r 
 ```
 
 ## Notes
