@@ -21,5 +21,5 @@ python3 webcam.py
 - The webcam with adjust to the terminal size, even when resizing it after the program start.
 - Pressing 'q' on any point quits the program.
 - Pressing 'r' on any point inverts the grays scale.
-- Pressing 'c' saves a capture of the webcam on the "captures" folder, these will be overwrite when you close and open the program again, so if you want to keep them move them to another folder.
+- Pressing 'c' saves a capture of the webcam on the "captures" folder, these will be overwrite when you run the program again, so if you want to keep them move them to another folder.
 - The Fps depends on the size of the terminal.
