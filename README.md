@@ -59,3 +59,6 @@ python3 webcam.py -r
 - Pressing 'r' on any point inverts the grays scale.
 - Pressing 'c' saves a capture of the webcam on the "captures" folder, these will be overwrite when you run the program again, so if you want to keep them move them to another folder.
 - The Fps depends on the size of the terminal.
+
+
+![](https://github.com/sshlpe/Ascii-Terminal-Webcam/blob/main/assets/rezise_example.gif)
