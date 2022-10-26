@@ -1,5 +1,5 @@
 # Ascii-Terminal-Webcam
-A terminal-base webcam made with opencv and AsciiMatics base and tasted only with Python 3.7 on mac base terminal.
+A terminal-base webcam made with Opencv and AsciiMatics base and tasted only with Python 3.7 on mac base terminal.
 
 ## Install
 clone the repository and install dependencies.
